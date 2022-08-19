@@ -1,0 +1,14 @@
+{
+  "name": "crm-react-json-server",
+  "version": "1.0.0",
+  "description": "Servidor de pruebas con JSon Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "ImJCervantes",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

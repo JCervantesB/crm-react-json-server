@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "diana cristina",
+      "empresa": "JA asociados ",
+      "email": "leonelpolanco2913@gmail.com",
+      "telefono": "3122215315",
+      "notas": "Construcciones ",
+      "id": 1
+    },
+    {
+      "nombre": "diana cristina",
+      "empresa": "JA asociados ",
+      "email": "leonelpolanco2913@gmail.com",
+      "telefono": "3122215315",
+      "notas": "Construcciones ",
+      "id": 2
+    },
+    {
+      "nombre": "Leonel",
+      "empresa": "LeoINC",
+      "email": "leoenl@leo.com",
+      "telefono": "3122222222",
+      "notas": "sitfware",
+      "id": 3
+    },
+    {
+      "nombre": "Camilo",
+      "empresa": "CAMKING",
+      "email": "correo@correo.com",
+      "telefono": "3254111",
+      "notas": "Nada de nada",
+      "id": 4
+    },
+    {
+      "nombre": "diana cristina",
+      "empresa": "LeoINCccc",
+      "email": "correo@correo.com",
+      "telefono": "3010101",
+      "notas": "",
+      "id": 5
+    }
+  ]
+}
